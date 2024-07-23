@@ -84,6 +84,8 @@ class Program
 		}
 	}
 `````
+# 3
+
 3.  **Projection Operation**:
     -   Create a LINQ query to project specific properties of objects in a collection.
     -   Apply a projection operation to format data for display in a UI.	
@@ -129,8 +131,8 @@ class Program
 			Console.ReadLine();
 		}
 	}
- 
-
+``
+# 4
 4.  **Sorting Data**:
     -   Implement sorting of a list of objects based on different properties using LINQ.
     -   Compare the performance of LINQ sorting methods for large datasets.
@@ -145,7 +147,8 @@ class Program
 			{
 				Console.WriteLine(item.Age);
 			}
-	 
+	```
+ # 6
 	6.  **Quantifiers**:
     -   Use quantifiers to check if all elements in a list satisfy a condition.
     -   Apply quantifiers to find if any element in a list meets a specific criteria.
@@ -189,8 +192,8 @@ class Program
 
 			Console.ReadLine();
 		}	
- 
-
+``
+# 7
 7.  **Grouping Data**:
     -   Group a collection of objects by a common property using LINQ.
     -   Calculate aggregate functions (e.g., sum, average) on grouped data. 
@@ -248,8 +251,8 @@ class Program
 			Console.ReadLine();
 		}
 	}
-    
-
+   ``
+# 8
 8.  **Join Operations**:
     -   Perform an inner join between two collections of objects using LINQ.
     -   Implement a left join operation and handle null values in the result.
