@@ -149,9 +149,9 @@ class Program
 			}
 	```
  # 6
-	6.  **Quantifiers**:
-    -   Use quantifiers to check if all elements in a list satisfy a condition.
-    -   Apply quantifiers to find if any element in a list meets a specific criteria.
+6.  **Quantifiers**:
+   -   Use quantifiers to check if all elements in a list satisfy a condition.
+-   Apply quantifiers to find if any element in a list meets a specific criteria.
 
 	```c#
     // Classes
